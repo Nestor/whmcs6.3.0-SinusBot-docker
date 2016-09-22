@@ -1,19 +1,14 @@
 # whmcs6.3.0-SinusBot-docker
-Модуль для whmcs для интеграции биллинга с shipyard и автоматической выдачи sinusbot клиенту
+Módulo WHMCS para integração com facturação e automático do cliente estaleiro sinusbot distribuição
 
-Скриншот добавленного сервера (Настройки->продукты и услуги->сервера)
+Screenshot Adicionando servidores (Configurações> Produtos e Serviços-> Server)
 ![Alt text](https://github.com/07artem132/whmcs6.3.0-SinusBot-docker/blob/master/screenshots/servers.png)
 
-Скриншот настроек модуля (Настройки->продукты и услуги->услуга->настройки модуля)
+Configurações do módulo de captura de tela (Configurações> Produtos e Serviços-> usluga-> configuração do módulo)
 ![Alt text](https://github.com/07artem132/whmcs6.3.0-SinusBot-docker/blob/master/screenshots/product.png)
 
-Скриншот продукта с панели администратора
+Produto Tema por administrador painéis
 ![Alt text](https://github.com/07artem132/whmcs6.3.0-SinusBot-docker/blob/master/screenshots/admin.png)
 
-Скриншот продукта из панели клиента
+Tema do produto a partir dos painéis de cliente
 ![Alt text](https://github.com/07artem132/whmcs6.3.0-SinusBot-docker/blob/master/screenshots/client.png)
-
----------
-email: a_ivanko@service-voice.com
-Возможна любая дороботка/костомизация модуля под Ваши требования за отдельную плату.
-Данный модуль тестировался только на whmcs  версии 6.3.0
